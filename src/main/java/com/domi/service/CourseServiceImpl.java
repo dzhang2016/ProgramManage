@@ -30,4 +30,8 @@ public class CourseServiceImpl implements CourseService {
 		return activities;
 	}
 	
+	public void testFunction2() {
+		
+	}
+	
 }
