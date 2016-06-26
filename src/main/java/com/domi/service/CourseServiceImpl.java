@@ -30,4 +30,9 @@ public class CourseServiceImpl implements CourseService {
 		return activities;
 	}
 	
+	public void testRollback() {
+		int i = 0;
+		i = i + 10;
+	}
+	
 }
