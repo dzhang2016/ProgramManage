@@ -34,4 +34,8 @@ public class CourseServiceImpl implements CourseService {
 		
 	}
 	
+	public void testFunction3() {
+		
+	}
+	
 }
