@@ -35,7 +35,12 @@ public class CourseServiceImpl implements CourseService {
 	}
 	
 	public void testFunction3() {
+		//This is new test function
+		int k = 10;
 		
+		for(int i = 10; i<100; i++) {
+			System.out.println("Testing now");
+		}
 	}
 	
 }
