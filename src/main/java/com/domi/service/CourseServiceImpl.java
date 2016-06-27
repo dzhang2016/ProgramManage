@@ -39,6 +39,7 @@ public class CourseServiceImpl implements CourseService {
 		for(int i = 10; i<100; i++) {
 			System.out.println("Testing now");
 		}
+		int kk = 2;
 	}
 	
 	
